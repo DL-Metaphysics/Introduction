@@ -1,2 +1,14 @@
 # Introduction
-Project introduction
+
+刚好看见学长在 GitHub 上创建了一个组织，所以就突发奇想创建了这个组织以方便大家进行交流与学习。
+
+---
+
+## Name Reauirement
+
+- 组织成员统一使用 `DL-GitHUb ID` 在此组织中创建自己的项目(方便展示最近的成果，同时也可以从中学习 GitHub 的使用技巧)
+- 在自己的项目中, 不同的算法放在单独的文件中。
+
+<b> Creator </b>
+
+[Laugh](https://github.com/laugh12321)
